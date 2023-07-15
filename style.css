@@ -1,0 +1,10 @@
+body{
+    color:white;
+    background-image: linear-gradient(blue, yellow, green, red, pink);
+}
+#camera{
+    border: 2px;
+    width:350px;
+    height: 300px;
+    border: 2px dashed white;
+}
